@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Diana Sivitskaya Resume"
+description: "A resume for Ais"
 
 # Build settings
 markdown: kramdown
@@ -14,7 +14,7 @@ resume_avatar:                  "true"
 resume_name:                    "Ais Intern"
 resume_title:                   "Professional Intern"
 resume_contact_email:           "dinktyt@gmail.com"
-resume_contact_telephone:       "375-29-6684931"
+resume_contact_telephone:       "375(29)6684931"
 resume_contact_address:         "Minsk, Belarus"
 #resume_header_contact_info: "San Francisco, California | 1-(877)-448-4820 | services@github.com"
 #resume_header_intro: "<p>Charting the knowledge of the Internet, just like Galileo charted the stars.</p>"
@@ -40,11 +40,11 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-#  resume_github_url:            "https://github.com/dsivitskaya"
+  resume_github_url:            "https://github.com/dsivitskaya"
 #  resume_twitter_url:           "http://twitter.com/jglovier"
- # resume_dribbble_url:          "https://dribbble.com/jag"
+#  resume_dribbble_url:          "https://dribbble.com/jag"
    resume_facebook_url:          "https://www.facebook.com/diana.sivitskaya.5"
-#  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+   resume_linkedin_url:          "https://www.linkedin.com/in/diana-sivitskaya-6bb005111/"
   # resume_instagram_url:         "insert your Instagram URL here"
 #  resume_website_url:           "http://joelglovier.com"
 resume_print_social_links:      true
